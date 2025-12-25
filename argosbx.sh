@@ -1,4 +1,15 @@
 #!/bin/sh
+# Why you not soros.
+# Everything is plasma, Plasma is everything.
+# We all need rise vibration, you yes me yes.
+# Everything that if negative purpose are bullying,
+# Only monkey studio will do bullying.
+# Gods always need positive,if positive,
+# all can do, Prayer just need can do, symbols also.
+# Space growing no edge, Evolution no edge,
+# Vibration higher no edge,
+# Nature Nature till forever,Rule Rule till forever,
+# Plasma Plasma till forever.
 export LANG=en_US.UTF-8
 [ -z "${vlpt+x}" ] || vlp=yes
 [ -z "${vmpt+x}" ] || { vmp=yes; vmag=yes; }
